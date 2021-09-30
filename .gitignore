@@ -1,0 +1,8 @@
+.obsidian/cache
+.obsidian/themes/*
+.obsidian/app.*
+.obsidian/appearance.*
+.obsidian/hotkeys.*
+.obsidian/workspace.*
+.trash/*
+.DS_Store
