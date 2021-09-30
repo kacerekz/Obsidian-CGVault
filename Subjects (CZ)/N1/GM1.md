@@ -1,0 +1,6 @@
+Předmět poskytuje přehled o základních geometrických metodách používaných v moderních grafických, CAx a GIS systémech. Kromě toho vede k získání praktických zkušeností s využitím geometrických modelářů a matematického software.  
+Studenti budou obeznámeni se základy (diferenciální, algebraické, projektivní) geometrie pro potřeby geometrického modelování, a to s ohledem na počítačové zobrazování křivek, ploch a těles. Hlavní náplní předmětu jsou základní objekty geometrického modelování jako např. Bézierovy, B-spline a NURBS křivky a plochy; spline křivky a plochy (Coonsovy pláty); barycentrické souřadnice a trojúhelníkové pláty.  
+Dalším cílem předmětu je naučit studenty používat metody geometrického modelování i v dalších aplikacích, např. v počítačové grafice a technické praxi.
+
+
+Spline funkce, kubická spline křivka, spline křivky vyšších stupňů, spline pod napětím, nelineární spline. Bézierovy křivky - Bernsteinovy polynomy, algoritmus de Casteljau. B-spline báze, de Boorův algoritmus, vlastnosti B-spline křivek. Racionální Bézierovy křivky a NURBS (non-uniform rational B-spline) křivky. Plochy tenzorového součinu - spline plochy, Bézierovy plochy, B-spline a NURBS plochy. Coonsovy interpolace - bilineární, bikubický a Fergusonův plát, plátování. Barycentrické souřadnice, interpolace na trojúhelníku. Aplikace geometrického modelování

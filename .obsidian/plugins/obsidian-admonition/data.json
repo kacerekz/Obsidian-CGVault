@@ -1,0 +1,20 @@
+{
+  "userAdmonitions": {
+    "zuzka": {
+      "type": "zuzka",
+      "color": "255, 127, 0",
+      "icon": {
+        "name": "user",
+        "type": "font-awesome"
+      },
+      "command": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "6.3.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "syncLinks": true,
+  "enableMarkdownProcessor": false
+}

@@ -1,0 +1,11 @@
+- Posuzování algoritmů, časová a paměťová složitost, robustnost algoritmů.  
+- Přesnost numerických výpočtů, Hornerovo schéma, singulární případy algoritmů.  
+- Často se vyskytující zbytečné, časově náročné operace v kódu a jejich eliminace.  
+- Správa paměti. Alokace a dealokace paměti, garbage collector, úniky paměti. Příliš velká data (nevejdou se do paměti).  
+- Maticové a vektorové operace (Strassen formula, skalární a vektorový součin). Řešení soustav lineárních i nelineárních rovnic (včetně přeurčených soustav).  
+- Cache v současných počítačích a její efektivní využití (technika bricking)  
+- Úvod do paralelního programování a programování GPU. Dělení prostoru, medián.  
+- Rekurze a její odstraňování. Binární vs. interpolační hledání.  
+- Redukce dimenze problému (space-filling křivky, PCA). Redukce dat vzorkováním, Sobolovy sekvence.  
+- Reprezentace grafů, algoritmy Dijkstra a Floyd-Warshall. Porovnávání grafů - Hungarian marriage. Stavový automat, prořezávání stavů.  
+- Praktický význam komprese, Freemanova růžice. Checksums (LUHN, CRC, Adler32, MD5). Úvod do RSA kryptování.

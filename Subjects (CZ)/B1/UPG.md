@@ -1,0 +1,13 @@
+1. Základní vektorová 2D grafika I: základní primitiva (čáry, polygony, kuželosečky, oblouky) a jejich použití, kresba křivky pomocí úseček a pomocí oblouků, Bezierova křivka - vlastnosti a její použití, pero a výplň, efekty s tahy a šrafováním.  
+2. Základní vektorová 2D grafika II: OpenType fonty, atributy fontu, řezy, velikost písma, metrika fontu, zarovnávání do bloku, tvorba obrazu na tiskárně.  
+3. Pokročilá vektorová 2D grafika: afinní transformace ve 2D, kombinování primitiv, boolean operace, ukládání vektorového obrazu do souboru - běžné vektorové formáty (SVG).  
+4. Interaktivní vektorová 2D grafika: hit detection, aplikační příklady analytické geometrie, jednoduché animace, časová osa, události.  
+5. Základní bitmapová grafika: vnímání jasu, jasový rozsah, vlastnosti barevného systému RGB, CMY a HSV, color management, ICC profily, bitová reprezentace pixelu, paleta, používání rastrových objektů ve vektorové grafice, manipulace s rastrovým obrazem, možnosti změny měřítka.  
+6. Pokročilá bitmapová grafika: vlastnosti a použití běžných rastrových formátů (BMP, PNG, JPEG, JPEG2000, GIF, EXIF), rendering do obrázku, double buffering, průhlednost, alfa kompozice, vodoznak, dávkové zpracování bitmapové grafiky.  
+7. Základy multimédií: základní pojmy (rozlišení klipu, HD formát, snímková frekvence, kodek, kontejnerová struktura, stereo vs. mono zvuk), základní metody zpracování a editace videa, vlastnosti běžných multimediálních formátů MPEG-1, MPEG-2, MPEG-4, LPCM, FLV. Používání multimédií v aplikacích a na webu.  
+8. Základy 3D grafiky: modelovací primitiva, modely kamery a světelných zdrojů, afinní transformace ve 3D, 2D texturování, základy tvorby modelů v modelovacích nástrojích, běžné formáty pro popis scény (např. X3D, VRML, WPF).  
+9. Základy vizualizace vědeckých dat: objemové reprezentace a jejich zobrazení po řezech, skalární a vektorová pole, barevné sekvence, glyfy, streamlines, přehled vizualizačních nástrojů (např. VTK, MVE2).  
+10. Základní vizualizace informace: význam vizualizace informace, vizuální manipulace, zobrazování dat prostřednictvím tabulky, grafu, diagramu nebo mapou, volba barev pro lepší diferenciaci, zlepšení čitelnosti výstupu  
+11. Pokročilá vizualizace informace: vizuální řazení (FlickTag), vícerozměrná data, vizualizace hierarchií a pracovních postupů, přehled vizualizačních nástrojů (např. JFreeChart, Prefuse).  
+12. Dokumenty s grafickým obsahem: vyznačovací jazyky (X/HTML), základní elementy pro části textu a strukturu stránky, základní typografické pojmy, vzhled a rozložení webové stránky s CSS.  
+13. Zvaná přednáška (rezerva).

@@ -1,0 +1,13 @@
+1. Základní pojmy, matematický model obrazu, přehled metod a aplikací, předzpracování, segmentace, rozpoznávání, 3D rekonstrukce, počítačová grafika, přenos a archivace obrazových dat. Digitalizace obrazu, vzorkování a kvantování.  
+2. Vlastnosti obrazu, sousedství, okolí bodu, vzdálenost, cesta, souvislá oblast, vnitřní a vnější hranice oblasti, plocha a obvod oblasti. Momenty a těžiště oblasti, základní tvarové příznaky oblasti.  
+3. Histogram obrazu, základní operace nad obrazovými daty, jasové korekce, transformace jasové stupnice, ekvalizace histogramu, zkvalitňování a vizualizace obrazu.  
+4. Segmentace obrazové scény, globální přístup k segmentaci, využití histogramu pro prahování obrazu. Určování prahu a automatická detekce prahu, metody modifikovaného histogramu, matice hranovosti, matice sousednosti, rozplav obrazu.  
+5. Segmentace obrazu narůstáním oblastí, štěpení a spojování oblastí.  
+6. Detekce hran v obrazu, hrana, zkvalitňování obrazu ostřením a zjednodušení obrazové scény, hrana a popis objektů, metody pro detekci a zdůraznění hrany směrově závislé a nezávislé, Laplaceův operátor, masky pro detekci hrany gradientní metodou, detekce čáry a bodu.  
+7. Filtrace obrazu, jednorozměrná číslicová filtrace a číslicové filtry typu IIR a FIR, dvourozměrná číslicová filtrace, šum v obrazu, metody pro potlačení šumu, popis vlastností jednotlivých metod.  
+8. Matematická morfologie, princip a využití pro předzpracování obrazu, potlačení šumu a zjednodušení tvarů objektů, skeletizace a ztenčování na principu matematické morfologie. Bodová množina, strukturní element, dilatace a eroze, operace otevření a uzavření, popis vlastností jednotlivých operací.  
+9. Ztenčování a skeletizace, ztenčování ve spojitém prostoru, mediální osový skelet, problém ztenčování v diskrétní mřížce, přímý soused bodu na hranici oblasti, násobný bod oblasti, definice skeletu v diskrétní mřížce, jednoduché algoritmy pro ztenčování, popis jejich vlastností, problém zúplnění hran a ztenčení hrany, resp. čáry.  
+10. Obrazová funkce ve frekvenčním oboru, Fourierova transformace, možnosti využití frekvenčního přístupu k obrazové funkci pro filtraci obrazu, algoritmus a použití.  
+11. Popis oblastí v obrazu, reprezentace a popis hranic oblastí, Freemanův řetězový kód, reprezentace oblastí, kódování úseků řádků, diferenční řetězový kód, princip metody souřadnicových křivek, např. pro Fourierovský popis ploch.  
+12. Formáty obrazových dat, komprese obrazových dat.  
+13. Poznámky k principům rozpoznávání a klasifikace objektů v obrazu, příznakové rozpoznávání a příznaková analýza.
