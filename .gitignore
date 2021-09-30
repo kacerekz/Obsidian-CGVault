@@ -3,6 +3,6 @@
 .obsidian/app.*
 .obsidian/appearance.*
 .obsidian/hotkeys.*
-.obsidian/workspace.*
+.obsidian/workspace
 .trash/*
 .DS_Store
