@@ -3,5 +3,8 @@
   "obsidian-admonition",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian",
+  "obsidian-pandoc"
 ]

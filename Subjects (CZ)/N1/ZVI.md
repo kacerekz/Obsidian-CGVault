@@ -1,4 +1,4 @@
-1. Základní pojmy, matematický model obrazu, přehled metod a aplikací, předzpracování, segmentace, rozpoznávání, 3D rekonstrukce, počítačová grafika, přenos a archivace obrazových dat. Digitalizace obrazu, vzorkování a kvantování.  
+1. Základní pojmy, matematický model obrazu, přehled metod a aplikací, předzpracování, segmentace, rozpoznávání, 3D rekonstrukce, počítačová grafika, přenos a archivace obrazových dat. Digitalizace obrazu, vzorkování a kvantování.
 2. Vlastnosti obrazu, sousedství, okolí bodu, vzdálenost, cesta, souvislá oblast, vnitřní a vnější hranice oblasti, plocha a obvod oblasti. Momenty a těžiště oblasti, základní tvarové příznaky oblasti.  
 3. Histogram obrazu, základní operace nad obrazovými daty, jasové korekce, transformace jasové stupnice, ekvalizace histogramu, zkvalitňování a vizualizace obrazu.  
 4. Segmentace obrazové scény, globální přístup k segmentaci, využití histogramu pro prahování obrazu. Určování prahu a automatická detekce prahu, metody modifikovaného histogramu, matice hranovosti, matice sousednosti, rozplav obrazu.  

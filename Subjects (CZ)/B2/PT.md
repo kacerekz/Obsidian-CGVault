@@ -11,6 +11,4 @@ množiny
 8. Komprese dat I - bezztrátové algoritmy (RLE, LZW, Huffman, aritmetické kódování)  
 9. Komprese dat II - ztrátové metody (JPEG, waveletová komprese, fraktálová komprese)  
 10. Kryptografie - úvod, základní algoritmy  
-11. Praxe programátora - vhodnost užívání různých datových struktur v konkrétních situacích,  
-vliv cache na běh programu, floating point implementace reálných čísel a její důsledky na  
-výpočty
+11. Praxe programátora - vhodnost užívání různých datových struktur v konkrétních situacích, vliv cache na běh programu, floating point implementace reálných čísel a její důsledky na výpočty

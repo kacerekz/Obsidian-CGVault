@@ -1,16 +1,16 @@
-1.týden: Mnohočleny, rozklad na kořenové činitele, Hornerovo schéma.  
-2.týden: Lineární prostor, lineární závislost a nezávislost, báze a dimenze prostoru, souřadnice prvku v dané bázi.  
-3.týden: Matice, determinant matice a jeho základní vlastnosti, rozvoj determinantu podle řádku či sloupce.  
-4.týden: Gaussova eliminační metoda. Rychlý výpočet determinantu. Hodnost matice, určení hodnosti pomocí determinantů.  
-5.týden: Inverzní matice, Jordanova eliminační metoda, konstrukce inverzní matice pomocí determinantů.  
-6.týden: Lineární zobrazení, jádro a obraz a jejich dimenze, matice lineárního zobrazení a její vlastnosti.  
-7.týden: Inverzní zobrazení, složené zobrazení a jejich matice, izomorfismus lineárních prostorů, změna báze a matice přechodu.  
-8.týden: Soustavy lineárních rovnic, homogenní a nehomogenní soustavy rovnic, soustavy rovnic s regulární maticí, Cramerovo pravidlo.  
-9.týden: Vlastní čísla a vlastní vektory matice, podobnost matic, jejich vlastnosti, Jordanův kanonický tvar matice.  
-10.týden: Skalární součin a jeho vlastnosti, norma indukovaná skalárním součinem, ortogonální a ortonormální báze prostoru.  
-11.týden: Gram-Schmidtův ortogonalizační proces, ortogonální průmět vektoru do podprostoru.  
-12.týden: Metoda nejmenších čtverců, kvadratické formy a reálné symetrické matice.  
-13.týden: Inercie kvadratické formy, zákon setrvačnosti kvadratických forem.
+1. Mnohočleny, rozklad na kořenové činitele, Hornerovo schéma.  
+2. Lineární prostor, lineární závislost a nezávislost, báze a dimenze prostoru, souřadnice prvku v dané bázi.  
+3. Matice, determinant matice a jeho základní vlastnosti, rozvoj determinantu podle řádku či sloupce.  
+4. Gaussova eliminační metoda. Rychlý výpočet determinantu. Hodnost matice, určení hodnosti pomocí determinantů.  
+5. Inverzní matice, Jordanova eliminační metoda, konstrukce inverzní matice pomocí determinantů.  
+6. Lineární zobrazení, jádro a obraz a jejich dimenze, matice lineárního zobrazení a její vlastnosti.  
+7. Inverzní zobrazení, složené zobrazení a jejich matice, izomorfismus lineárních prostorů, změna báze a matice přechodu.  
+8. Soustavy lineárních rovnic, homogenní a nehomogenní soustavy rovnic, soustavy rovnic s regulární maticí, Cramerovo pravidlo.  
+9. Vlastní čísla a vlastní vektory matice, podobnost matic, jejich vlastnosti, Jordanův kanonický tvar matice.  
+10. Skalární součin a jeho vlastnosti, norma indukovaná skalárním součinem, ortogonální a ortonormální báze prostoru.  
+11. Gram-Schmidtův ortogonalizační proces, ortogonální průmět vektoru do podprostoru.  
+12. Metoda nejmenších čtverců, kvadratické formy a reálné symetrické matice.  
+13. Inercie kvadratické formy, zákon setrvačnosti kvadratických forem.
 
 
 Otázky ke zkoušce:
