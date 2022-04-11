@@ -11,11 +11,11 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] Test the Git functionality
 
 
 ## Done
 
+- [ ] Test the Git functionality
 - [ ] Create a git repo for the project @{2021-09-30}
 - [ ] Collect relevant subject syllabi @{2021-09-14}
 
