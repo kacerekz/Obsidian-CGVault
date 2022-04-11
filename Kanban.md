@@ -7,11 +7,11 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] Create a top level index of topics for the near future
-- [ ] Test the Git functionality
 
 
 ## Doing
 
+- [ ] Test the Git functionality
 
 
 ## Done
